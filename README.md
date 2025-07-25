@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->### Web2 Stack
-[Icons for JavaScript, React, Node.js, etc.]
-
-### Web3 Stack
-[Icons for Solidity, Ethers.js, Hardhat, etc.]
